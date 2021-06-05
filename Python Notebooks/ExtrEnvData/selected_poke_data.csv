@@ -1,0 +1,27 @@
+﻿Name,HP,Attack,Defense,Special,Speed,Type_1,Type_2,Move_1,Move_2,Move_3,Move_4,Move_5,Move_6
+Venusaur,300,82,83,100,80,Grass,Poison,Growth,Psychic,Razor Leaf,Acid,Switch1,Switch2
+Charizard,300,84,78,85,100,Fire,Flying,Fire Blast,Earthquake,Dragon Rage,Brick Break,Switch1,Switch2
+Blastoise,300,83,100,85,78,Water,None,Hydro Pump,Blizzard,Thunderpunch,Bite,Switch1,Switch2
+Pidgeot,110,80,75,70,91,Normal,Flying,Wing Attack,Screech,Sky Attack,Whirlwind,Switch1,Switch2
+Arbok,80,85,69,65,80,Poison,None,Bite,Tackle,Screech,Acid,Switch1,Switch2
+Golbat,100,80,70,75,90,Poison,Flying,Tackle,Amnesia,Wing Attack,Acid,Switch1,Switch2
+Arcanine,120,110,80,80,95,Fire,None,Tail Whip,Rock Throw,Fire Blast,Take Down,Switch1,Switch2
+Alakazam,75,50,45,135,120,Psychic,None,Psybeam,Psychic,Reflect,Slam,Switch1,Switch2
+Machamp,120,130,80,65,55,Fighting,None,Submission,Focus Energy,Thunderpunch,Rock Throw,Switch1,Switch2
+Slowbro,126,75,110,80,30,Water,Psychic,Hydro Pump,Ice Punch,Withdraw,Amnesia,Switch1,Switch2
+Dewgong,120,70,80,95,70,Water,Ice,Growl,Aurora Beam,Ice Punch,Take Down,Switch1,Switch2
+Cloyster,67,95,180,85,70,Water,Ice,Slam,Clamp,Aurora Beam,Spike Cannon,Switch1,Switch2
+Haunter,60,50,45,115,95,Ghost,Poison,Psychic,Night Shade,Amnesia,Dream Eater,Switch1,Switch2
+Gengar,80,65,60,130,110,Ghost,Poison,Night Shade,Psychic,Growth,Dream Eater,Switch1,Switch2
+Onix,47,45,160,30,70,Rock,Ground,Rock Throw,Rage,Slam,Harden,Switch1,Switch2
+Exeggutor,126,95,85,125,55,Grass,Psychic,Razor Leaf,Barrage,Stomp,Tackle,Switch1,Switch2
+Hitmonlee,67,120,53,35,87,Fighting,None,Thunderpunch,Focus Energy,Hi Jump Kick,Mega Kick,Switch1,Switch2
+Hitmonchan,67,105,79,35,76,Fighting,None,Ice Punch,Fire Punch,Thunderpunch,Leer,Switch1,Switch2
+Rhydon,140,130,120,45,40,Ground,Rock,Rock Throw,Tail Whip,Earthquake,Horn Drill,Switch1,Switch2
+Jynx,87,50,35,95,95,Ice,Psychic,Doubleslap,Ice Punch,Body Slam,Thrash,Switch1,Switch2
+Gyarados,127,125,79,100,81,Water,Flying,Hydro Pump,Dragon Rage,Leer,Hyper Beam,Switch1,Switch2
+Lapras,178,85,80,95,60,Water,Ice,Blizzard,Aurora Beam,Hydro Pump,Body Slam,Switch1,Switch2
+Aerodactyl,107,105,65,60,130,Rock,Flying,Wing Attack,Take Down,Bite,Earthquake,Switch1,Switch2
+Dragonair,81,84,65,70,70,Dragon,None,Focus Energy,Slam,Dragon Rage,Hyper Beam,Switch1,Switch2
+Dragonite,121,134,95,100,80,Dragon,Flying,Dragon Rage,Slam,Growl,Hyper Beam,Switch1,Switch2
+Pikachu,266,55,30,50,90,Electric,None,Focus Energy,Slam,Thunderpunch,Psychic,Switch1,Switch2

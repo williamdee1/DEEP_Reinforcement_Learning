@@ -1,0 +1,65 @@
+﻿Name,Type,Cat,Power,Accuracy,PP,Kind
+Growl,Normal,Status,0,100,40,atk-
+Fire Blast,Fire,Physical,90,90,5,Normal
+Hydro Pump,Water,Special,110,70,5,Normal
+Wing Attack,Flying,Physical,80,90,35,Normal
+Bite,Dark,Physical,90,90,25,Normal
+Roar,Normal,Physical,0,90,20,Normal
+Psybeam,Psychic,Special,65,90,20,Normal
+Water Gun,Water,Special,40,90,25,Normal
+Focus Energy,Normal,Status,0,100,30,atk+
+Leer,Normal,Status,0,100,30,def-
+Rock Throw,Rock,Physical,50,90,15,Normal
+Tail Whip,Normal,Status,0,100,30,def-
+Jump Kick,Fighting,Physical,100,95,10,Normal
+Ice Punch,Ice,Physical,75,90,15,Normal
+Doubleslap,Normal,Physical,120,90,15,Normal
+Body Slam,Normal,Physical,85,90,15,Normal
+Screech,Normal,Status,0,100,40,def--
+Mega Drain,Grass,Special,90,90,15,Normal
+Rage,Normal,Physical,20,90,20,Normal
+Blizzard,Ice,Special,110,70,5,Normal
+Reflect,Psychic,Status,0,100,20,def++
+Withdraw,Water,Status,0,100,40,def+
+Psychic,Psychic,Physical,70,90,10,Normal
+Harden,Normal,Status,0,100,30,def+
+Aurora Beam,Ice,Special,65,90,20,Normal
+Clamp,Water,Physical,35,85,15,Normal
+Night Shade,Ghost,Physical,80,90,15,Normal
+Barrage,Normal,Physical,15,85,20,Normal
+Fire Punch,Fire,Physical,75,90,15,Normal
+Barrier,Psychic,Status,0,100,20,def++
+Dragon Rage,Dragon,Physical,80,90,10,Normal
+Take Down,Normal,Physical,90,85,20,Normal
+Slam,Normal,Physical,80,75,20,Normal
+Razor Leaf,Grass,Special,80,95,25,Normal
+Slash,Normal,Physical,70,90,20,Normal
+Sky Attack,Flying,Physical,90,90,5,Normal
+Recover,Normal,Status,0,100,10,hp_50
+Ember,Fire,Special,40,90,25,Normal
+Fissure,Ground,Physical,0,30,5,Normal
+Mirror Move,Flying,Status,0,100,20,mirror
+Stomp,Normal,Physical,65,90,20,Normal
+Hi Jump Kick,Normal,Physical,70,90,15,Normal
+Thunderpunch,Electric,Physical,50,90,15,Normal
+Fury Attack,Normal,Physical,15,85,20,Normal
+Solar Beam,Grass,Special,120,90,10,Normal
+Fire Spin,Fire,Special,35,85,15,Normal
+Whirlwind,Normal,Physical,0,90,20,Normal
+Acid,Poison,Special,90,90,30,Normal
+Submission,Fighting,Physical,80,80,20,Normal
+Growth,Normal,Status,0,100,20,spe+
+Spike Cannon,Normal,Physical,20,90,15,Normal
+Dream Eater,Psychic,Special,100,90,15,Normal
+Amnesia,Psychic,Status,0,100,20,spe++
+Tackle,Normal,Physical,40,90,35,Normal
+Mega Kick,Normal,Physical,120,75,5,Normal
+Counter,Fighting,Physical,0,90,20,Normal
+Horn Drill,Normal,Physical,0,30,5,Normal
+Thrash,Normal,Physical,120,90,10,Normal
+Hyper Beam,Normal,Special,90,90,5,Normal
+Full Restore,Normal,Status,0,100,20,hp_max
+Switch1,Normal,Status,0,100,20,switch1
+Switch2,Normal,Status,0,100,20,switch2
+Earthquake,Ground,Physical,100,90,20,Normal
+Brick Break,Fighting,Physical,90,90,20,Normal

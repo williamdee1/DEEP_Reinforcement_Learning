@@ -1,0 +1,27 @@
+﻿Name,HP,Attack,Defense,Special,Speed,Type_1,Type_2,Move_1,Move_2,Move_3,Move_4,Move_5
+Venusaur,80,82,83,100,80,Grass,Poison,Growth,Mega Drain,Razor Leaf,Solar Beam,Full Restore
+Charizard,78,84,78,85,100,Fire,Flying,Fire Blast,Rage,Slash,Fire Spin,Full Restore
+Blastoise,79,83,100,85,78,Water,None,Hydro Pump,Blizzard,Bite,Withdraw,Full Restore
+Pidgeot,83,80,75,70,91,Normal,Flying,Wing Attack,Mirror Move,Sky Attack,Whirlwind,Full Restore
+Arbok,60,85,69,65,80,Poison,None,Bite,Glare,Screech,Acid,Full Restore
+Golbat,75,80,70,75,90,Poison,Flying,Supersonic,Confuse Ray,Wing Attack,Haze,Full Restore
+Arcanine,90,110,80,80,95,Fire,None,Roar,Leer,Ember,Take Down,Full Restore
+Alakazam,55,50,45,135,120,Psychic,None,Psybeam,Psychic,Reflect,Recover,Full Restore
+Machamp,90,130,80,65,55,Fighting,None,Submission,Focus Energy,Fissure,Leer,Full Restore
+Slowbro,95,75,110,80,30,Water,Psychic,Water Gun,Growl,Withdraw,Amnesia,Full Restore
+Dewgong,90,70,80,95,70,Water,Ice,Growl,Aurora Beam,Rest,Take Down,Full Restore
+Cloyster,50,95,180,85,70,Water,Ice,Supersonic,Clamp,Aurora Beam,Spike Cannon,Full Restore
+Haunter,45,50,45,115,95,Ghost,Poison,Confuse Ray,Night Shade,Hypnosis,Dream Eater,Full Restore
+Gengar,60,65,60,130,110,Ghost,Poison,Night Shade,Confuse Ray,Toxic,Dream Eater,Full Restore
+Onix,35,45,160,30,70,Rock,Ground,Rock Throw,Rage,Slam,Harden,Full Restore
+Exeggutor,95,95,85,125,55,Grass,Psychic,Hypnosis,Barrage,Stomp,Tackle,Full Restore
+Hitmonlee,50,120,53,35,87,Fighting,None,Jump Kick,Focus Energy,Hi Jump Kick,Mega Kick,Full Restore
+Hitmonchan,50,105,79,35,76,Fighting,None,Ice Punch,Fire Punch,Thunderpunch,Counter,Full Restore
+Rhydon,105,130,120,45,40,Ground,Rock,Leer,Tail Whip,Fury Attack,Horn Drill,Full Restore
+Jynx,65,50,35,95,95,Ice,Psychic,Doubleslap,Ice Punch,Body Slam,Thrash,Full Restore
+Gyarados,95,125,79,100,81,Water,Flying,Hydro Pump,Dragon Rage,Leer,Hyper Beam,Full Restore
+Lapras,130,85,80,95,60,Water,Ice,Blizzard,Confuse Ray,Hydro Pump,Body Slam,Full Restore
+Aerodactyl,80,105,65,60,130,Rock,Flying,Supersonic,Take Down,Bite,Hyper Beam,Full Restore
+Dragonair,61,84,65,70,70,Dragon,None,Agility,Slam,Dragon Rage,Hyper Beam,Full Restore
+Dragonite,91,134,95,100,80,Dragon,Flying,Dragon Rage,Slam,Barrier,Hyper Beam,Full Restore
+Pikachu,400,35,55,50,90,Electric,None,Focus Energy,Mirror Move,Thunderpunch,Psychic,Full Restore
